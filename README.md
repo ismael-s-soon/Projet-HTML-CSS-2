@@ -6,7 +6,8 @@ Une section moderne mettant en avant des témoignages clients et des avis utilis
 
 ## 📸 Aperçu
 
-![Uploading Capture d’écran 2025-10-27 à 14.08.38.png…]()
+![Uploading Aperçu du projet.png…]()
+
 
 
 ---
