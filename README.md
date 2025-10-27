@@ -3,15 +3,6 @@
 Une section moderne mettant en avant des témoignages clients et des avis utilisateurs afin de renforcer la crédibilité d’un produit ou d’un service. Le design est responsive, épuré et met l’accent sur la preuve sociale à travers les notes et retours d’expérience.
 
 ---
-
-## 📸 Aperçu
-
-![Uploading Aperçu du projet.png…]()
-
-
-
----
-
 ## ✨ Fonctionnalités
 
 - Témoignages utilisateurs avec photo, nom et rôle
